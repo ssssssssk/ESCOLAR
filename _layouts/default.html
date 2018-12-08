@@ -1,0 +1,43 @@
+{% include header.html %}
+
+<div class="row">
+
+  <div class="three columns">
+    <div class=medium>
+      {{ page.event_type }}:
+    </div>
+  </div>
+  
+  <div class="nine columns">
+    <div class="medium">
+      <a href="{{ post.url }}">
+	{% if page.artist_name == empty %}
+	{% else %}
+	{{ page.artist_name }}
+	{% endif %}
+
+	{% if page.show_title == empty %}
+	{% else %}
+	<em>"{{ page.show_title }}"</em>
+	{% endif %}
+      </a>
+      <br>
+      {% if page.time == empty %}
+      {{ page.start_date }}
+      {% else %}
+      {{ page.start_date }}. {{ page.time }}
+      {% endif %}
+      <br>
+      <a href="{{ post.map_link }}">
+	{{ page.address }}
+      </a>
+      <br>
+      {{ page.hours }}<br>
+      {{ content }}
+    </div>
+  </div>
+
+</div>
+<br>
+
+{% include footer.html %}

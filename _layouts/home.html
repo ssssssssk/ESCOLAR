@@ -1,0 +1,46 @@
+{% include header.html %}
+
+{% for post in site.posts reversed %}
+<div class="row">
+
+  <div class="three columns">
+    <div class=medium>
+      {{ post.event_type }}:
+    </div>
+  </div>
+  
+  <div class="nine columns">
+    <div class="medium">
+      <a href="{{ post.url }}">
+	{% if post.artist_name == empty %}
+	{% else %}
+	{{ post.artist_name }}
+	{% endif %}
+
+	{% if post.show_title == empty %}
+	{% else %}
+	<em>"{{ post.show_title }}"</em>
+	{% endif %}
+      </a>
+      <br>
+      {% if post.time == empty %}
+      {{ post.start_date }}
+      {% else %}
+      {{ post.start_date }}. {{ post.time }}
+      {% endif %}
+      <br>
+      <a href="{{ post.map_link }}">
+	{{ post.address }}
+      </a>
+      <br>
+      {{ post.hours }}
+      
+    </div>
+  </div>
+
+</div>
+<br>
+
+{% endfor %}
+
+{% include footer.html %}

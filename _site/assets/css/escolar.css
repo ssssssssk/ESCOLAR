@@ -1,0 +1,126 @@
+
+.jumbo			{
+    font-family: 'Helvetica', sans-serif;
+    /*     font-weight: 500; */
+    /*color: #3479e1; */
+    font-size: 15vw;
+    /*     font-weight: bold; */
+    letter-spacing: 2vmin;
+    padding-left: 5vmin 1rem;
+    padding-right: 5vmin 1rem;
+    text-align: center;
+    color: #39A25C;
+    display: inline-block;
+    font-weight: 700;
+    margin: auto;
+    width: 50%;
+    -webkit-font-smoothing: antialiased; /* This needs to be set or some font faced fonts look bold on Mac in Chrome/Webkit based browsers. */
+    -moz-osx-font-smoothing: grayscale; /* Fixes font bold issue in Firefox version 25+ on Mac */
+}
+.medium
+{
+    font-family: 'Helvetica', sans-serif;
+    font-size: 3vmax;
+    letter-spacing: .1vmin;
+    
+    /* font-weight: 300; */
+    -webkit-font-smoothing: antialiased; /* This needs to be set or some font faced fonts look bold on Mac in Chrome/Webkit based browsers. */
+    -moz-osx-font-smoothing: grayscale; /* Fixes font bold issue in Firefox version 25+ on Mac */
+    /*color: darkgray;*/
+}
+html
+{
+    font-family: 'Helvetica', sans-serif;
+    /*color: darkgray;*/
+    font-size: 3vmin;
+    /* font-weight: 300; */
+    /*	letter-spacing: .2vmin; */
+    line-height: 1.5;
+    -webkit-font-smoothing: antialiased; /* This needs to be set or some font faced fonts glook bold on Mac in Chrome/Webkit based browsers. */
+    -moz-osx-font-smoothing: grayscale; /* Fixes font bold issue in Firefox version 25+ on Mac */
+    font-feature-settings: "kern" 1;
+    font-kerning: normal;
+}
+a:link
+{
+    color: #39A25C;
+    text-decoration: none;
+}
+
+a:visited
+{
+    color: #39A25C;
+    text-decoration: none;
+}
+
+a:hover
+{
+    color: #f4d942;
+    text-decoration: underline;
+}
+ul
+{
+    list-style: none;
+    padding-left: 0;
+}
+
+.fixed	{
+    position: fixed;
+    bottom: -12px;
+    right: 0;
+    width: 200px;
+
+
+
+}
+
+/* img     {
+   height: 100vh;
+   width: 100%;
+   margin:0px;
+   padding:0px;
+   }
+   .fill1 {
+   object-fit: cover
+   }
+
+   .fill2 {
+   object-fit: cover
+   }
+
+   .item {
+   text-align: left;
+   padding-left: 0px;
+   padding-right: 0px;
+   list-style: none;
+   font-family: sans-serif;
+   }*/
+
+
+@media print {
+    html {
+	font-size: 8pt;
+	line-height: 10pt;
+    }
+    .medium {
+	font-size: 8pt;
+
+    }
+    .jumbo {
+	font-size: 8pt;
+    }
+    .fixed {
+	
+display: none;
+    }
+    /* .container {
+       margin-left: 1.5cm;
+       margin-right:4cm;
+       } */
+}
+
+@page {
+    margin-left: 1.5cm;
+    margin-right: 3.5cm;
+    margin-top: 1cm;
+}
