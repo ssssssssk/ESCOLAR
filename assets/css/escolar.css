@@ -28,6 +28,34 @@
     -moz-osx-font-smoothing: grayscale; /* Fixes font bold issue in Firefox version 25+ on Mac */
     /*color: darkgray;*/
 }
+
+.content p {
+    font-family: 'Times';
+    font-size: 2vmax;
+  }
+
+.content h2 {
+    font-size: 3vmax;
+    font-weight: 500;
+    display: inline;
+    line-height: 1vmin;
+    margin-bottom: 0px;
+}
+img {
+    height: 400px;
+}
+
+.scrolling-wrapper {
+    display: flex;
+    flex-wrap: nowrap;
+    overflow-x: auto;
+
+    .card {
+	flex: 0 0 auto;
+    }
+}
+}
+
 html
 {
     font-family: 'Helvetica', sans-serif;
