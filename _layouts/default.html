@@ -36,13 +36,18 @@
     </div>
     <br>
     <div class="scrolling-wrapper">
+      {% if page.image_folder == empty %}
+      {% else %}
       {% for file in site.static_files %}
+      {% if file.path contains page.image_folder %}
       {% if file.extname == ".jpg" %}
       <div class="card">
-	<img src="{{ site.baseurl }}{{ file.path }}">
+	<img src="{{ file.path }}">
       </div> &nbsp;
       {% endif %}
+      {% endif %}
       {% endfor %}
+      {% endif %}
     </div>
     
     <div class="content">

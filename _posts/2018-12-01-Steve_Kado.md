@@ -8,6 +8,7 @@ address: "6530 Covey Road, Forestville, CA, 95436"
 map_link: "https://goo.gl/maps/39ELdbCZP9s"
 event_type: "Exhibition"
 hours: "By Appointment"
+image_folder: "pics/SteveKado/"
 ---
 <a id="org4124a13"></a>
 
