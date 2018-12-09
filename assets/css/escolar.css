@@ -32,7 +32,7 @@
 .content p {
     font-family: 'Times';
     font-size: 2vmax;
-  }
+}
 
 .content h2 {
     font-size: 3vmax;
@@ -49,7 +49,7 @@ img {
     display: flex;
     flex-wrap: nowrap;
     overflow-x: auto;
-
+    -webkit-overflow-scrolling: touch;
     .card {
 	flex: 0 0 auto;
     }
@@ -139,7 +139,7 @@ ul
     }
     .fixed {
 	
-display: none;
+	display: none;
     }
     /* .container {
        margin-left: 1.5cm;
