@@ -12,6 +12,11 @@ image_folder: "pics/Ross/"
 ---
 What happens to the vegetable's spirit when you feed it to an electrical blade spinning with unthinkable power so that its meat explodes into a thousand tiny fibers and leaves behind only a shallow pool of potable blood? 
 
-## Closing & Dinner on March 30th at 6pm
+<video width="100%" controls="controls">
+  <source src="{{ site.url }}/pics/Ross/Ross.mp4">
+</video>
+<br>
+
+## Closing & Dinner on April 6 at 6pm
 
 
