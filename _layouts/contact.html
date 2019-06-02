@@ -1,0 +1,29 @@
+{% include header.html %}
+
+<div class="row">
+
+  <div class="three columns">
+    <div class=medium>
+      {{ page.event_type }}:
+    </div>
+  </div>
+  
+  <div class="nine columns">
+       <div class="medium">
+Escolar is an art space in Sonoma County, California.
+       </div>
+       <div class="content">
+	 {{ content }}
+       </div>
+       <div class="medium">
+	 Reach us via: 
+	 <a href="mailto:{{ page.email }}">Email</a>
+	 or 
+	 <a href="{{ page.instagram }}">Instagram</a>
+       </div>
+  </div>
+
+</div>
+<br>
+
+{% include footer.html %}
