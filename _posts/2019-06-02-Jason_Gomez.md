@@ -7,6 +7,6 @@ time: ""
 address: "2110 Dennis Lane, Santa Rosa, CA, 95403"
 map_link: "https://goo.gl/maps/yN6Tbe8zd1ZiRhYc7"
 event_type: "Exhibition"
-hours: "Opening at 6PM, June 22nd.g"
+hours: "Opening at 6PM, June 22nd."
 image_folder: "pics/JasonGomez/"
 ---
