@@ -9,6 +9,7 @@ map_link: "https://goo.gl/maps/39ELdbCZP9s"
 event_type: "Exhibition"
 hours: "By Appointment"
 image_folder: "pics/SteveKado/"
+title: "Steve Kado - Heat"
 ---
 <a id="org4124a13"></a>
 

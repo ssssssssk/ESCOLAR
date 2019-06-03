@@ -9,4 +9,5 @@ map_link: "https://goo.gl/maps/yN6Tbe8zd1ZiRhYc7"
 event_type: "Exhibition"
 hours: "Opening at 6PM, June 22nd."
 image_folder: "pics/JasonGomez/"
+title: "Jason Gomez - Gut Garden"
 ---
