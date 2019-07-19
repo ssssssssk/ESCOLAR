@@ -4,6 +4,6 @@ event_type: "About"
 email: "psychic.indigestion@gmail.com"
 instagram: "https://instagram.com/psychic_indigestion/"
 ---
-Lorem ipsum dolor amet lomo blue bottle lyft kale chips meh pabst helvetica squid selvage heirloom. Pop-up unicorn try-hard pour-over tumeric actually ramps kale chips chartreuse drinking vinegar occupy normcore typewriter bitters man bun. Pok pok hashtag tumeric vaporware locavore. Next level ugh chartreuse helvetica cliche meh, copper mug shaman hoodie street art plaid la croix raclette poke seitan.
+A lady in a cafe complimented the sticker of a fly on my laptop and asked me where she could get one. I said that my friend made it. She was impressed and said she wanted one, but then upon closer inspection was disappointed to find out it was a fly and not a butterfly. I told her hey, flies need love to. She said indeed they do but she has trouble forming emotional bonds with flies; they buzz loudly and move about too suddenly, always appearing in your home as uninvited guests. I told her I can kinda relate to the fly. She told me she prefers mosquitos, they’re easier to kill. 
 
-Farm-to-table banjo snackwave meggings poutine, vinyl polaroid kitsch chambray single-origin coffee post-ironic squid kale chips four dollar toast freegan. Cray coloring book normcore +1 XOXO pinterest poke selvage air plant. Butcher disrupt tilde iPhone four dollar toast knausgaard cornhole deep v farm-to-table tote bag waistcoat actually celiac four loko. Everyday carry gluten-free XOXO mlkshk fam kombucha taiyaki. Af vape venmo umami, cray glossier +1.
+-Nicole Zubia
