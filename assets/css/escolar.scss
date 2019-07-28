@@ -4,10 +4,11 @@
 @import 'normalize';
 @import 'skeleton';
 @import 'typography';
-
+@import 'media';
 img {
     height: 500px;
 }
+// Need a media query so that iphone =450px, iPad etc.
 
 .scrolling-wrapper {
     display: flex;

@@ -1,5 +1,6 @@
 $header-font: 'Helvetica', sans-serif;
 $running-font: 'Times';
+$big-size: 3vmax;
 %font-junk {
     -webkit-font-smoothing: antialiased;
     /* This needs to be set or some font faced fonts glook bold on Mac in Chrome/Webkit based browsers. */
@@ -11,13 +12,14 @@ $running-font: 'Times';
 
 html  {
     // line-height: 1.5;
+    
     }
 
 .jumbo			{
     font-family: $header-font;
     font-size: 15vw;
     line-height: 20vw;
-    letter-spacing: 2vmin;
+    letter-spacing: 2vw;
     // padding-left: 5vmin 1rem;
     // padding-right: 5vmin 1rem;
     text-align: center;
@@ -31,21 +33,25 @@ html  {
 .medium
 {
     font-family: $header-font;
-    font-size: 3vmax;
+    font-size: $big-size;
     letter-spacing: .1vmin;
+    word-wrap: break-word;
     @extend %font-junk;
 }
 
 .content p {
     font-family: $running-font;
     font-size: 2vmax;
+    margin-bottom: 0px;
 }
 
 .content h2 {
     font-family: $header-font;
-    font-size: 3vmax;
+    font-size: $big-size;
     font-weight: 500;
     display: inline;
-    line-height: 1vmin;
-    margin-bottom: 0px;
+    line-height: $big-size;
+    margin-bottom: 10%;
+    margin-top: 10%;
+    
 }
