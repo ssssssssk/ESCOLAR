@@ -42,7 +42,7 @@ html  {
 
 .content p {
     font-family: $running-font;
-    font-size: 2vmax;
+    font-size: $big-size*0.75;
     margin-bottom: 0px;
 }
 
