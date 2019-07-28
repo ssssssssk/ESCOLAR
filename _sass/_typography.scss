@@ -35,7 +35,8 @@ html  {
     font-family: $header-font;
     font-size: $big-size;
     letter-spacing: .1vmin;
-    word-wrap: break-word;
+    // word-wrap: break-word;
+    line-height: $big-size;
     @extend %font-junk;
 }
 
