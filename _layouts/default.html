@@ -45,17 +45,19 @@
       {% if file.path contains page.image_folder %}
       {% if file.extname == ".jpg" %}
       <div class="card">
-	<img src="{{ file.path }}">
+	  <img src="{{ file.path }}">
       </div> &nbsp;
       {% endif %}
       {% endif %}
       {% endfor %}
       {% endif %}
     </div>
-    
+    {% if page.content == empty %}
+    {% else %}
     <div class="content">
       {{ content }}
     </div>
+    {% endif %}
   </div>
 
 </div>
