@@ -3,7 +3,7 @@ layout: default
 artist_name: "Steve Kado"
 show_title: "Isle of the Dead: 2021"
 start_date: "July 10, 2021"
-time: "5PM - 10 PM"
+time: "5 PM - 10 PM"
 address: "Online"
 map_link: "https://www.twitch.tv/escolar_center/"
 event_type: "Lecture"
