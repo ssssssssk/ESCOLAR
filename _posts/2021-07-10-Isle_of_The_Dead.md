@@ -11,7 +11,6 @@ hours: ""
 image_folder: "pics/IOD/"
 title: "Isle of the Dead 2021"
 ---
-<br>
 <video width="100%" controls="controls">
   <source src="{{ site.url }}/pics/IOD/IOD.mp4">
 </video>
