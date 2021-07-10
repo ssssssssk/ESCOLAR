@@ -14,7 +14,7 @@ title: "Isle of the Dead 2021"
 We return to the [virtual goat shed](https://www.twitch.tv/escolar_center) for a touched up version of the video lecture/chat that Steve gave last October for OPAF. 
 <br>
 <video width="100%" controls="controls">
-  <source src="{{ site.url }}/pics/IOD/IoD2021.mov">
+  <source src="{{ site.url }}/pics/IOD/IOD.mp4">
 </video>
 <br>
 IRL BBQ at 2110 Dennis Lane, Santa Rosa. 
