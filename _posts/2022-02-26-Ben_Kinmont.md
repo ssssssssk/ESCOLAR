@@ -11,7 +11,7 @@ hours: "Opening at 1-5PM, March 13."
 image_folder: "pics/Ben_Kinmont"
 title: "20 January 2017"
 ---
-20 January 2017.
+# 20 January 2017.
 
 The project 20 January 2017 was conducted during the final months leading up to the U.S. midterm elections in 2018. (20 January 2017 is the date that Donald Trump began his term in office.) As a work, it is comprised of seven advertisements that ran in various newspapers. The first two were in the New York Times and Washington Post, two American newspapers with a broad national distribution. The other five ads were placed in California newspapers which served communities and congressional districts where there was a Republican incumbent, but the Democratic challenger had a chance to win. Before the election, the Republicans controlled the House of Representatives. Those newspapers were The Los Angeles Times, The Modesto Bee, The Orange County Register, The Fresno Bee, and The San Diego Tribune.
 
@@ -20,17 +20,24 @@ The midterm election was a success for the Democrats as they achieved a House ma
 The ads are in the following locations:
 
 The New York Times, 7 September 2018, page A5.
+
 The Washington Post, 7 September 2018, page A2.
+
 The Los Angeles Times, 26 October 2018, page A10.
+
 The Modesto Bee, 28 October 2018, page 3B.
+
 The Orange County Register, 28 October 2018, page 12.
+
 The Fresno Bee, 28 October 2018, page 17A.
+
 The San Diego Tribune, 28 October 2018, page A10.
+
 
 Project begun 2018. An archive-boxed edition of ten was made that comes with a signed certificate. Project cannot be repeated, although the catalytic texts can be reused by others.
 
 <hr>
-I am for you, Ich bin für Sie.
+# I am for you, Ich bin für Sie.
  
 William James had talked about the shiftiness of truth, about its lack of a single center. So, to test my idea about the third sculpture, I wrote catalytic texts and gave them out on the street. Most didn't view it as art and the project evolved through their understanding and criticism. Most importantly, you could have walked by and not even noticed that it was going on.
  
