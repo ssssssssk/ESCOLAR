@@ -9,7 +9,7 @@ map_link: "https://goo.gl/maps/7tYpT9rR1fo1TCmn7"
 event_type: "Exhibition"
 hours: "Opening at 1-5PM, March 13."
 image_folder: "pics/Ben_Kinmont"
-title: 20 January 2017"
+title: "20 January 2017"
 ---
 20 January 2017.
 
