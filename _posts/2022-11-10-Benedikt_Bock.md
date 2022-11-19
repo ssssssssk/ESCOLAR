@@ -8,7 +8,7 @@ address: "2110 Dennis Lane, Santa Rosa, CA, 95403"
 map_link: "https://goo.gl/maps/7tYpT9rR1fo1TCmn7"
 event_type: "Exhibition"
 hours: "Opening 6-10pm."
-image_folder: "pics/Bock"
+image_folder: "pics/Bocko"
 title: "Zum Stand der Dinge: Welt der Technik II"
 ---
 Sometimes, when a man is holding a pencil, his hand won’t release it no matter how badly he wants to let go. Instead the hand tightens rather than opens. There’s a passage in a book by Maurice Blanchot which describes the writer as a man with two hands: The right hand writes, wants desperately to write, while the left hand cannot or chooses not to. The right hand holds the pencil involuntarily, like an addict following a desire that is neither properly outside nor inside of them. The left hand doesn’t write but it can reach out and take the pencil, to interrupt what is being written. “Mastery,” Blanchot concludes, “always characterises the other hand, the one that doesn’t write.”
