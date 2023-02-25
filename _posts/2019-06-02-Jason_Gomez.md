@@ -10,6 +10,7 @@ event_type: "Exhibition"
 hours: "Opening at 6PM, June 23nd."
 image_folder: "pics/JasonGomez/"
 title: "Jason Gomez - Gut Garden"
+main_img: "DSC07609.jpg"
 ---
 Stand planted so that you are centered 
 with the Earth's gravitational pull. 

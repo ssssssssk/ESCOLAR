@@ -10,6 +10,7 @@ event_type: "Exhibition"
 hours: "Opening at 5PM, August 21."
 image_folder: "pics/MH"
 title: "Horizontal Window"
+main_img: "MH-04.jpg"
 ---
 
 Here, a field, <br>

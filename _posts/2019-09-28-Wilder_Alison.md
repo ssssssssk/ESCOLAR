@@ -10,6 +10,7 @@ event_type: "Exhibition"
 hours: ""
 image_folder: "pics/WilderAlison/"
 title: "Wilder Alison - new wool/drawings"
+main_img: "Wilder_Alison_New Wool_Drawings_2019.jpg"
 ---
 > J/e is the symbol of the lived, rending experience which is m/y writing, of this cutting in two which throughout literature is an exercise of the language which does not constitute m/e as subject. J/e poses the ideological and historic question of feminine subjects.
 > - -- Monique Wittig

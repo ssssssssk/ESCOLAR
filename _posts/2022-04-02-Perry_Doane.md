@@ -10,6 +10,7 @@ event_type: "Exhibition"
 hours: "Opening 2-6PM, March 13."
 image_folder: "pics/Perry_Doane"
 title: "Brutalist Hedge"
+main_img: "001.jpg"
 ---
 Something like a wall 
 

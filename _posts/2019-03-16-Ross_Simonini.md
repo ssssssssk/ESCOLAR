@@ -10,6 +10,7 @@ event_type: "Exhibition"
 hours: "Opening & Performance March 16, 6 PM."
 image_folder: "pics/Ross/"
 title: "Ross Simonini - My Whole Entiled World"
+main_img: "1699f4ac85cd9be34c21.jpg"
 ---
 What happens to the vegetable's spirit when you feed it to an electrical blade spinning with unthinkable power so that its meat explodes into a thousand tiny fibers and leaves behind only a shallow pool of potable blood? 
 

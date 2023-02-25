@@ -10,4 +10,5 @@ event_type: "Exhibition"
 hours: "Opening: August 17, 2-5pm"
 image_folder: "pics/ElizabethMarshall/"
 title: "Elizabeth Marshall - Earth, My Likeness"
+main_img: "DSC07785.jpg"
 ---

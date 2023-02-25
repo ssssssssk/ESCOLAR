@@ -10,5 +10,6 @@ event_type: "Exhibition"
 hours: ""
 image_folder: "pics/Catherine_Sieck"
 title: "Orbiting Whorl"
+main_img: "IMG_0360.jpg"
 ---
 

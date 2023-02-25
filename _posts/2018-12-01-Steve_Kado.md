@@ -10,6 +10,7 @@ event_type: "Exhibition"
 hours: "By Appointment"
 image_folder: "pics/SteveKado/"
 title: "Steve Kado - Heat"
+main_img: "21-Steve_Kado-Heat-2018.jpg"
 ---
 <a id="org4124a13"></a>
 

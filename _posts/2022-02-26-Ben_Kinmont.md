@@ -10,6 +10,7 @@ event_type: "Exhibition"
 hours: "Opening at 1-5PM, March 13."
 image_folder: "pics/Ben_Kinmont"
 title: "20 January 2017"
+main_img: "03.jpg"
 ---
 # 20 January 2017.
 

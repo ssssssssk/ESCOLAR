@@ -10,4 +10,5 @@ event_type: "Exhibition"
 hours: ""
 image_folder: "pics/Aaron/"
 title: "Camera Drawings"
+main_img: "ag-cd-1.jpg"
 ---

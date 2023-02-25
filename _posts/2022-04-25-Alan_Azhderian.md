@@ -10,6 +10,7 @@ event_type: "Exhibition"
 hours: "Opening 2-6PM, April 30."
 image_folder: "pics/AlanAzhderian"
 title: "Text Grids"
+main_img: "IMG_3694.jpg"
 ---
 Azhderian is interested in the process of change, of changing one thing into something else. There’s something about the process being very open ended–He’s not trying to “say” anything in particular–but he’s using language nonetheless. For him, it's less about the communication of a message and more about the latent possibilities in reforming these visual, textual elements. There is both an interest in estrangement from textual conventions, as well as the echoes of familiarity that make the work accessible to the viewer as language. 
 

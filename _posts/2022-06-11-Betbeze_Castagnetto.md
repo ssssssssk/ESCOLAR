@@ -10,6 +10,7 @@ event_type: "Project"
 hours: "Performance at 8:30."
 image_folder: "pics/Collapse"
 title: "Collapse"
+main_img: "image.jpg"
 ---
 **Collapse** is part of an ongoing collaboration that began by thinking about liveness, deathlessness and the transit between the two. Betbeze and Castagnetto presented an iteration of this work, *Endings, Beginnings* at The Box LA earlier this year. At Escolar, Evan Green will join on guitar. 
 
