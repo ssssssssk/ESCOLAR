@@ -38,20 +38,26 @@
       </div>
     </div>
     <br>
-    <div class="scrolling-wrapper">
+    <div class="gallery">
       {% if page.image_folder == empty %}
       {% else %}
-      {% for file in site.static_files %}
-      {% if file.path contains page.image_folder %}
-      {% if file.extname == ".jpg" %}
-      <div class="card">
-	  <img src="{{ file.path }}" loading="lazy">
-      </div> &nbsp;
+        {% if page.main_img != empty %}
+
+          <a href="/{{ site.baseurl }}{{ page.image_folder }}/{{  page.main_img }}" class="glightbox" data-gallery="{{  page.image_folder | remove: "pics/"}}"><img src="/{{ site.baseurl }}{{ page.image_folder }}/{{ page.main_img  }}" style="width: 100%; height: auto;"></a><caption>Click image for slideshow.</caption>
+
+        {% for file in site.static_files %}
+          {% if file.path contains page.image_folder %}
+            {% if file.extname == ".jpg" %}
+              <a href="{{ file.path }}" class="glightbox" data-gallery="{{ page.image_folder | remove: "pics/" }}"></a>
+            {% endif %}
+          {% endif %}
+        {% endfor %}
+        {% else  %}
+        {% endif %}
       {% endif %}
-      {% endif %}
-      {% endfor %}
-      {% endif %}
+
     </div>
+
     {% if page.content == empty %}
     {% else %}
     <div class="content">
