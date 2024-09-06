@@ -12,7 +12,7 @@ image_folder: "pics/Lowry"
 title: "COPS"
 main_img: "01.jpg"
 ---
-*A white Cadillac on the strip, gang members from rival labels, a Glock .40 passing hands. Boom, boom, boom.**
+*A white Cadillac on the strip, gang members from rival labels, a Glock .40 passing hands. Boom, boom, boom.*
 
 Saturday, September 7th, 1996. After attending the Mike Tyson/Bruce Seldon fight, Tupac Shakur was shot four times while sitting in a BMW at the intersection of Flamingo and Koval, just a block off the Vegas Strip. A white Cadillac pulled alongside the BMW and multiple shots were fired, four hitting Tupac. Six days later, on Friday, September 13th, he’s dead. 
 
